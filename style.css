@@ -1,0 +1,28 @@
+﻿.heading {
+    background-color: purple;
+    color: green;
+    font-size: 200px;
+    font-family: 'Comic Sans MS';
+    font-weight: 900;
+}
+
+.square-image {
+    height: auto;
+    width: 1500px;
+}
+
+ul li {
+    font-family: Wingdings, sans-serif;
+    font-weight: 900;
+}
+
+ol li {
+    font-family: 'Wingdings 2', sans-serif;
+    color: green;
+}
+
+h2 {
+    font-size: 100px;
+    color: orange;
+    background-color: red;
+}
